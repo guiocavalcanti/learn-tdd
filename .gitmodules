@@ -1,0 +1,3 @@
+[submodule "references/ruby_koans"]
+	path = references/ruby_koans
+	url = https://github.com/neo/ruby_koans.git
